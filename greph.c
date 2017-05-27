@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+
 const length_pol = 80;
 
 void top_pol(){
